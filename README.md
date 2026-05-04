@@ -24,4 +24,3 @@ Then open http://localhost:3000 in your browser.
 ## Known Issues / Limitations
 
 - Layout is optimized for desktop; mobile layout is functional but not fully polished
-- Project descriptions are based on repo names and may not reflect full project scope
